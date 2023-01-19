@@ -1,20 +1,36 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Analog Photobooth Finder
+subtitle: Keeping history alive one photostrip at a time
+image: img/img_0791.jpeg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Photobooths Around the World
+  text: >-
+    Maecenas egestas arcu quis ligula mattis placerat. Donec elit libero,
+    sodales nec, volutpat a, suscipit non, turpis. Vestibulum facilisis, purus
+    nec pulvinar iaculis, ligula mi congue nunc, vitae euismod ligula urna in
+    dolor.
 
+
+    Ut id nisl quis enim dignissim sagittis. Praesent blandit laoreet nibh. Praesent turpis. Curabitur blandit mollis lacus. Sed libero. Sed lectus.
+intro:
+  heading: A Brief History of the Photobooth
+  text: >-
+    Nulla consequat massa quis enim. Praesent adipiscing.
+
+    In dui magna, posuere eget, vestibulum et, tempor auctor, justo. Aenean vulputate eleifend tellus.
+
+    Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Fusce vel dui.
+
+    Maecenas nec odio et ante tincidunt tempus. Pellentesque commodo eros a enim.
+products: []
+values:
+  heading: How Does a Photobooth Work?
+  text: >-
+    Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+    inceptos hymenaeos. Phasellus viverra nulla ut metus varius laoreet. Aenean
+    imperdiet. Mauris turpis nunc, blandit et, volutpat molestie, porta ut,
+    ligula.
+
+
+    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aenean vulputate eleifend tellus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+---
